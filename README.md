@@ -193,6 +193,8 @@ http://127.0.0.1:5000
 ```
 
 ---
+video link:
+https://drive.google.com/file/d/1skVcN0LgVLmPoJVEtt6i6fnB4o1ZgwWR/view?usp=sharing
 
 ## 📸 Screenshots
 
@@ -242,7 +244,7 @@ This project is intended for educational and learning purposes. You may modify a
 
 **Dharani Pendem**
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/dharani-911
 
 ---
 
